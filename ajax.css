@@ -1,0 +1,15 @@
+#allbooks{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.book{
+    width: 23%;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 20px gray;
+}
+#bodycolor{
+    background-color: rgb(36, 133, 133);
+}
